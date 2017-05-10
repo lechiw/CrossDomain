@@ -1,3 +1,4 @@
+利用jsonp是ajax可跨域请求数据 , 具体参考 http://www.cnblogs.com/digdeep/p/4170059.html
 1、部署后端controller类到springmvc的相应文件目录中
 2、将前端文件部署到tomcat中，其项目名称为examples，端口为8080
 3、在浏览器中输入已下url值并回车
